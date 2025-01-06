@@ -1,5 +1,6 @@
 # Namedata Project
 
+
 Semantic layer layer is userfriendly. 
 Exception: comsumer is a developer/statistician
 Report automation, sharing business logic.
